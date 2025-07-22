@@ -21,3 +21,7 @@ o que evitaria possíveis subestimações ou superestimações no planejamento."
 "Implementar uma prática de commits menores e mais frequentes para cada alteração significativa.
  Isso facilitaria a revisão do código, a identificação de problemas e a resolução de possíveis
   conflitos de merge de forma mais ágil."
+
+
+  Link para clonagem no github: https://github.com/alexandrojdev/Desafio-versionamento.git
+  Meu github: https://github.com/alexandrojdev/Desafio-versionamento
