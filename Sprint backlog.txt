@@ -1,0 +1,23 @@
+## O que funcionou de forma adequada:
+
+"O uso de branches separadas (index e contato) para cada história de usuário demonstrou ser uma prática eficiente
+ para isolar o desenvolvimento e facilitar o controle das alterações."
+
+
+
+
+
+## O que não funcionou de forma adequada:
+
+"A estimativa de esforço inicial para as histórias de usuário poderia ter sido mais detalhada, 
+o que evitaria possíveis subestimações ou superestimações no planejamento."
+
+
+
+
+
+## Sugestões de melhoria:
+
+"Implementar uma prática de commits menores e mais frequentes para cada alteração significativa.
+ Isso facilitaria a revisão do código, a identificação de problemas e a resolução de possíveis
+  conflitos de merge de forma mais ágil."
